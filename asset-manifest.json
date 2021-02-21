@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/teste-meza/static/css/main.08907876.chunk.css",
-    "main.js": "/teste-meza/static/js/main.f7959396.chunk.js",
-    "main.js.map": "/teste-meza/static/js/main.f7959396.chunk.js.map",
+    "main.css": "/teste-meza/static/css/main.1ac915f3.chunk.css",
+    "main.js": "/teste-meza/static/js/main.b529bd45.chunk.js",
+    "main.js.map": "/teste-meza/static/js/main.b529bd45.chunk.js.map",
     "runtime-main.js": "/teste-meza/static/js/runtime-main.df77e76c.js",
     "runtime-main.js.map": "/teste-meza/static/js/runtime-main.df77e76c.js.map",
     "static/js/2.cabd08eb.chunk.js": "/teste-meza/static/js/2.cabd08eb.chunk.js",
     "static/js/2.cabd08eb.chunk.js.map": "/teste-meza/static/js/2.cabd08eb.chunk.js.map",
     "index.html": "/teste-meza/index.html",
-    "static/css/main.08907876.chunk.css.map": "/teste-meza/static/css/main.08907876.chunk.css.map",
-    "static/js/2.cabd08eb.chunk.js.LICENSE.txt": "/teste-meza/static/js/2.cabd08eb.chunk.js.LICENSE.txt"
+    "static/css/main.1ac915f3.chunk.css.map": "/teste-meza/static/css/main.1ac915f3.chunk.css.map",
+    "static/js/2.cabd08eb.chunk.js.LICENSE.txt": "/teste-meza/static/js/2.cabd08eb.chunk.js.LICENSE.txt",
+    "static/media/card-img.d596c64d.jpg": "/teste-meza/static/media/card-img.d596c64d.jpg",
+    "static/media/Hero.css": "/teste-meza/static/media/hero.7598bd5d.jpg",
+    "static/media/panvel-logo.6240eaa4.png": "/teste-meza/static/media/panvel-logo.6240eaa4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.df77e76c.js",
     "static/js/2.cabd08eb.chunk.js",
-    "static/css/main.08907876.chunk.css",
-    "static/js/main.f7959396.chunk.js"
+    "static/css/main.1ac915f3.chunk.css",
+    "static/js/main.b529bd45.chunk.js"
   ]
 }
