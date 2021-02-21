@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/teste-meza/static/css/main.08907876.chunk.css",
+    "main.js": "/teste-meza/static/js/main.f7959396.chunk.js",
+    "main.js.map": "/teste-meza/static/js/main.f7959396.chunk.js.map",
+    "runtime-main.js": "/teste-meza/static/js/runtime-main.df77e76c.js",
+    "runtime-main.js.map": "/teste-meza/static/js/runtime-main.df77e76c.js.map",
+    "static/js/2.cabd08eb.chunk.js": "/teste-meza/static/js/2.cabd08eb.chunk.js",
+    "static/js/2.cabd08eb.chunk.js.map": "/teste-meza/static/js/2.cabd08eb.chunk.js.map",
+    "index.html": "/teste-meza/index.html",
+    "static/css/main.08907876.chunk.css.map": "/teste-meza/static/css/main.08907876.chunk.css.map",
+    "static/js/2.cabd08eb.chunk.js.LICENSE.txt": "/teste-meza/static/js/2.cabd08eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df77e76c.js",
+    "static/js/2.cabd08eb.chunk.js",
+    "static/css/main.08907876.chunk.css",
+    "static/js/main.f7959396.chunk.js"
+  ]
+}
