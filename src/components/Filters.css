@@ -1,0 +1,40 @@
+.filters-container{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: flex-end;
+}
+
+.filtros{
+    display:flex;
+    width: 205px;
+    height: 37px;
+    background-color: white;
+    margin: 20px 5px;
+    color: rgb(150, 150, 150);
+    font-size: 13px;
+    font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+}
+
+.filtros i, .filtros p{
+    padding:0 3px;
+}
+
+.filtros i{
+    font-size: 16px;
+}
+
+
+@media screen and (max-width: 800px) {
+    .filters-container{
+        width:90%;
+        display: block;
+    }
+
+    .filtros{
+        width: 100%;
+    }
+}

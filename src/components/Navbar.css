@@ -1,0 +1,120 @@
+.navbar{
+    width:100%;
+    height: 8vh;
+    background-color: rgba(19,60,141,255);
+    display: flex;
+    position: fixed;
+    z-index: 100;
+}
+
+.navbar-container{
+    width:60%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.categorias{
+    display: flex;
+    margin:auto 1em;
+    color: white;
+    cursor: pointer;
+}
+
+.categorias i{
+    margin: auto;
+    font-size: 15px;
+}
+
+.categorias h3{
+    padding-left: 0.5em;
+    font-size: 13px;
+    margin: auto;
+}
+
+.busca{
+    height: 70%;
+    width: 50%;
+    margin:auto 1em;
+    display: flex;
+    position: relative;
+}
+
+.busca input{
+    height: 100%;
+    width: 100%;
+    border-radius: 3px;
+    border: none;
+    padding: 0 1em;
+    margin:auto;
+}
+
+.busca i{
+    color: rgb(170, 170, 170);
+    position: absolute;
+    right: 10px;
+    line-height: 5.4vh;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.entrar{
+    display: flex;
+    margin:auto 1em;
+    color: white;
+    cursor: pointer;
+}
+
+.entrar i{
+    margin: auto;
+    font-size: 15px;
+}
+
+.entrar h3{
+    padding-left: 0.5em;
+    font-size: 13px;
+    margin: auto;
+}
+
+.carrinho{
+    display: flex;
+    margin:auto 1em;
+    color: white;
+    cursor: pointer;
+}
+
+.carrinho i{
+    margin: auto;
+    color: rgb(0, 198, 233);
+    font-size: 15px;
+}
+
+.menu-mobile{
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+    .entrar{
+        display: none;
+    }
+    .categorias{
+        display: none;
+    }
+    .navbar-container{
+        width:95%;
+    }
+    .busca {
+        display: none;
+    }
+    .menu-mobile{
+        margin:auto 1em;
+        display: block;
+        color: white;
+        cursor: pointer;
+        font-size: 25px;
+    }
+    .carrinho i{
+        font-size: 25px;
+    }
+}
