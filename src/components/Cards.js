@@ -21,7 +21,6 @@ function Cards() {
                     <Cardimage
                         tituloreg="CONHEÇA NOSSOS " 
                         titulo='SHAMPOOS'
-                        imagem='./Images/card-img.jpg'
                     />
                 </ul>
             </div>

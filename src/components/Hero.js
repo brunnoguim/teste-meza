@@ -4,7 +4,7 @@ import './Hero.css'
 function Hero() {
     return (
         <div className="hero">
-            <div className="hero-imagem" style={{ backgroundImage: "url(./Images/hero.jpg)" }} >
+            <div className="hero-imagem" >
                
             </div>
             <div className="hero-texto" >

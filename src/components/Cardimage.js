@@ -1,4 +1,5 @@
 import React from 'react'
+import imageCard from '../Images/card-img.jpg'
 
 function Cardimage(props) {
     return (
@@ -8,7 +9,7 @@ function Cardimage(props) {
                     <h3><span>{props.tituloreg}</span>{props.titulo}</h3>
                 </div>
                 <div className="card-body" >
-                    <img src={props.imagem} ></img>
+                    <img src={imageCard} ></img>
                 </div>
             </li>
         </div>

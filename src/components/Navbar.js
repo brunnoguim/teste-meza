@@ -1,12 +1,13 @@
 import React, {useState} from 'react'
 import './Navbar.css'
+import logo from '../Images/panvel-logo.png'
 
 const Navbar = () => {
     return (
         <>
             <nav className="navbar" >
                 <div className="navbar-container" >
-                    <img src="/images/panvel-logo.png" className="logo" ></img>
+                    <img src={logo} alt="logo panvel" className="logo" ></img>
                     <div className="categorias" >
                         <i class="fas fa-bars"></i>
                         <h3>CATEGORIAS</h3>
